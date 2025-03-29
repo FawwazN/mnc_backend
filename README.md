@@ -3,7 +3,7 @@ This API aims the needs between merchant and customer in order to do transaction
 
 -	Login: do log in customer and if customer does not exist, then got reject. 
 -	Payment: customer that has been login can do the payment. No max & min limit amount for transfer. Transfer only do for registered customer. 
--	Logout: do logout for the logged in custome.
+-	Logout: do logout for the logged in customer.
 -   Show customer data.
 
 All of the activity stored inside transaction table. 
