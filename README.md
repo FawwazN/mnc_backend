@@ -14,15 +14,15 @@ This API were made by using [GoFiber](https://gofiber.io/).
 - [Go](https://go.dev/) (>= 1.24)
 
 ## Installation
-1. Clone the repository:
+1. **Clone the repository:**
 ```sh
 git clone https://github.com/FawwazN/mnc_backend.git
 ```
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
 ```sh
 cd mnc-backend
 ```
-3. Setup Environment Variables
+3. **Setup Environment Variables**
 Need to create .env file based on .env.example by inputting these required variables:
 ```
 SERVER_PORT=server port to run the API
@@ -32,7 +32,7 @@ MERCHANT_DB=location of merchants storage file in json
 TRANSACTION_DB=location of transactions storage file in json
 SESSION_DB=location of session storage file in json
 ```
-4. Install some dependencies and run the application
+4. **Install some dependencies and run the application**
 ```sh
 go mod tidy
 go run main.go
@@ -40,4 +40,4 @@ go run main.go
 
 ## Additional information
 
-Documentation about running the HTTP requests can be imported using `./test/mncpay-api.postman_collection.json` on Postman.
+Documentation about running the HTTP requests can be imported using `./test/mncpay-api.postman_collection.json` on **Postman.**
