@@ -23,6 +23,7 @@ git clone https://github.com/FawwazN/mnc_backend.git
 cd mnc-backend
 ```
 3. **Setup Environment Variables**
+
 Need to create .env file based on .env.example by inputting these required variables:
 ```
 SERVER_PORT=server port to run the API
