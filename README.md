@@ -25,7 +25,7 @@ cd mnc-backend
 3. **Setup Environment Variables**
 
 Need to create .env file based on .env.example by inputting these required variables:
-```
+```env
 SERVER_PORT=server port to run the API
 JWT_SECRET=secret jwt key
 CUSTOMER_DB=location of customers storage file in json
