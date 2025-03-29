@@ -1,0 +1,98 @@
+[
+	{
+		"id": "0c355b7d-e783-4ebe-ac07-45c3912b73d4",
+		"merchant": {
+			"id": "2",
+			"name": "Restaurant"
+		},
+		"customer": {
+			"id": "4ed2bfa0-34f0-4fc9-9663-f650f3177178",
+			"username": "wahyudi15",
+			"password": "wahyu123",
+			"balance": 1142000,
+			"created_at": "2025-03-29T12:15:46.0968083+07:00"
+		},
+		"amount": 50000,
+		"created_at": "2025-03-29T12:22:05.2309742+07:00"
+	},
+	{
+		"id": "0c355b7d-e783-4ebe-ac07-45c3912b73d4",
+		"merchant": {
+			"id": "2",
+			"name": "Restaurant"
+		},
+		"customer": {
+			"id": "4ed2bfa0-34f0-4fc9-9663-f650f3177178",
+			"username": "wahyudi15",
+			"password": "wahyu123",
+			"balance": 1142000,
+			"created_at": "2025-03-29T12:15:46.0968083+07:00"
+		},
+		"amount": 50000,
+		"created_at": "2025-03-29T12:22:05.2309742+07:00"
+	},
+	{
+		"id": "b1c4b770-f950-45d1-bdb9-ee4886e439bc",
+		"merchant": {
+			"id": "2",
+			"name": "Restaurant"
+		},
+		"customer": {
+			"id": "4ed2bfa0-34f0-4fc9-9663-f650f3177178",
+			"username": "wahyudi15",
+			"password": "wahyu123",
+			"balance": 1092000,
+			"created_at": "2025-03-29T12:15:46.0968083+07:00"
+		},
+		"amount": 50000,
+		"created_at": "2025-03-29T12:22:25.5994258+07:00"
+	},
+	{
+		"id": "b1c4b770-f950-45d1-bdb9-ee4886e439bc",
+		"merchant": {
+			"id": "2",
+			"name": "Restaurant"
+		},
+		"customer": {
+			"id": "4ed2bfa0-34f0-4fc9-9663-f650f3177178",
+			"username": "wahyudi15",
+			"password": "wahyu123",
+			"balance": 1092000,
+			"created_at": "2025-03-29T12:15:46.0968083+07:00"
+		},
+		"amount": 50000,
+		"created_at": "2025-03-29T12:22:25.5994258+07:00"
+	},
+	{
+		"id": "c5442927-f822-476e-9254-55db166072c6",
+		"merchant": {
+			"id": "2",
+			"name": "Restaurant"
+		},
+		"customer": {
+			"id": "4ed2bfa0-34f0-4fc9-9663-f650f3177178",
+			"username": "wahyudi15",
+			"password": "wahyu123",
+			"balance": 1042000,
+			"created_at": "2025-03-29T12:15:46.0968083+07:00"
+		},
+		"amount": 50000,
+		"created_at": "2025-03-29T12:22:59.980137+07:00"
+	},
+	{
+		"id": "c5442927-f822-476e-9254-55db166072c6",
+		"merchant": {
+			"id": "2",
+			"name": "Restaurant"
+		},
+		"customer": {
+			"id": "4ed2bfa0-34f0-4fc9-9663-f650f3177178",
+			"username": "wahyudi15",
+			"password": "wahyu123",
+			"balance": 1042000,
+			"created_at": "2025-03-29T12:15:46.0968083+07:00"
+		},
+		"amount": 50000,
+		"created_at": "2025-03-29T12:22:59.980137+07:00"
+	}
+]
